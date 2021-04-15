@@ -1,0 +1,2 @@
+# Accouting-Database-SQL.
+Worked with an existing accounting database for the purpose of building queries and inserting results into such queries to create Profit and Loss (P&amp;L) and Balance Sheet (B/s) statements. Used dataflow diagrams and analytical mapping to properly construct an efficient model that could quickly retrieve and update a single record, specific to a certain time period(i.e. statements based on year).
